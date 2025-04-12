@@ -47,10 +47,23 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nishantverma888" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"/></a>
+  <a href="https://www.linkedin.com/in/me-nishant-verma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30"/></a>
   <a href="https://www.instagram.com/nishantverma888/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" height="30"/></a>
   <a href="https://www.codechef.com/users/nishant888" target="_blank"><img src="https://img.shields.io/badge/Codechef-5B4638?logo=codechef&logoColor=white" height="30"/></a>
   <a href="mailto:nishantverma040@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" height="30"/></a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/nishant9083/ai-assistant" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishant9083&repo=ai-assistant&theme=radical" />
+  </a>
+  <a href="https://github.com/nishant9083/rich-editor" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishant9083&repo=custom-editor&theme=radical" />
+  </a>
 </p>
 
 ---
