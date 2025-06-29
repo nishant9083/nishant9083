@@ -62,7 +62,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishant9083&repo=ai-assistant&theme=radical" />
   </a>
   <a href="https://github.com/nishant9083/rich-editor" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishant9083&repo=custom-editor&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishant9083&repo=rich-editor&theme=radical" />
   </a>
 </p>
 
